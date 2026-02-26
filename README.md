@@ -274,6 +274,7 @@
 | [whisper_cloudflare](https://github.com/thun888/whisper_cloudflare) | 基于 Whisper 模型的在线音频转写工具，部署在 Cloudflare 上。可以将音频文件转换为文字，并支持生成 SRT 格式的字幕文件。| | 维护中 |
 | [micro-notepad](https://github.com/thun888/micro-notepad/) | 迷你笔记本，对 [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) 的cloudflare worker实现。| | 维护中 |
 | [cf-page-publish-mcp](https://github.com/Actrue/cf-page-publish-mcp) | cloudflare 页面发布 mcp 工具，可以将 html 页面发布到 cloudflare，worker 上。可以mcp对接ai。| | 维护中 |
+| [redirect-checker](https://github.com/brancogao/redirect-checker) | 基于 Cloudflare Workers 的 HTTP 重定向链分析器，支持检测重定向循环、性能测量、多种 User-Agent 预设（含 Googlebot/Bingbot）。提供 RESTful API 和响应式 Web UI。| <https://redirect-checker.autocompany.workers.dev/> | 维护中 |
 | [MetaReview](https://github.com/TerryFYL/metareview) | 免费在线 Meta 分析平台，基于 Cloudflare Pages + Workers AI + KV 构建。支持 120+ 功能：森林图/漏斗图等 11 种统计图表（D3.js）、5 种效应量、AI 文献筛选（Llama 3.1 8B）、PDF 数据提取、DOCX/HTML 报告导出、PRISMA 流程图。中英双语，医学研究者 5 分钟从数据到森林图。 | <https://metareview-8c1.pages.dev/> | 维护中 |
 
 ## 教程
