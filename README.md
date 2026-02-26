@@ -51,6 +51,7 @@
   - [文件分享](#文件分享)
   - [测速](#测速)
   - [监控](#监控)
+  - [开发者工具](#开发者工具)
 - [文章](#文章)
   - [其他](#其他)
   - [教程](#教程)
@@ -198,6 +199,12 @@
 | [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) | SSL 证书到期监控工具，检查 SSL 证书有效期并通过 RESTful API 提供服务。 | <https://ssl-certificate-monitor.autocompany.workers.dev/> |维护中|
 | [deploy-mcp](https://github.com/alexpota/deploy-mcp) | 为AI助手提供的通用部署跟踪器，支持实时状态徽章和部署监控，包括对 Cloudflare Pages 的支持。 | https://deploy-mcp.io | 有效中 |
 | [What Broke Today](https://whatbroke.today/) | AI 驱动的宕机聚合器，追踪 100+ 云服务（包括 Cloudflare）的状态，提供实时 Telegram 警报、RSS 订阅和 JSON API。 | <https://whatbroke.today/> | 维护中 |
+
+## 开发者工具
+
+| 名称 | 特性 |在线地址 | 状态|
+| --- | --- | --- |--- |
+| [Webhook Debugger](https://github.com/brancogao/webhook-debugger) | 自托管 Webhook 调试工具，支持签名验证（Stripe/GitHub/Slack/Shopify）、90天历史、全文搜索、一键重放。基于 Cloudflare Workers + D1 构建。 | <https://webhook-debugger.autocompany.workers.dev> | 维护中 |
 
 # 文章
 
