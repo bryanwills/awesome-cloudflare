@@ -184,6 +184,13 @@
 
 
 
+
+## 对象存储
+
+| 项目 | 简介 | 在线地址 | 状态 |
+| --- | --- | --- | --- |
+| [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) | 21个S3兼容对象存储提供商的全面比较，包括Cloudflare R2。涵盖定价、陷阱和迁移成本。 | <https://storage.mixpeek.com> | 维护中 |
+
 ## 测速
 
 | 名称 | 特性 |在线地址 | 状态|
