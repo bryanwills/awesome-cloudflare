@@ -297,6 +297,14 @@
 | [2FAuth Worker](https://github.com/nap0o/2fauth-worker) | 支持 Cloudflare Workers 与 Docker 双模式部署的高安全 2FA/TOTP 管理系统。提供 PWA、离线验证码生成、Health Shield 和 WebDAV/S3/Telegram 多通道备份。 | <https://2fauth.pp.ua> | 维护中 |
 | [AI Maze Generator](https://github.com/s87343472/ai-maze-generator) | 基于 Next.js + OpenNext 部署在 Cloudflare Workers 上的在线迷宫生成器与游戏。支持 10 种迷宫模式、每日挑战、排行榜、自定义生成和 PDF 导出。 | <https://ai-mazegenerator.com> | 维护中 |
 | [OmniConvert](https://github.com/s87343472/omni-convert) | 部署在 Cloudflare Pages + Workers 的免费开源文件与单位转换工具箱。支持 94 种文件格式转换、345 种单位换算、PWA 离线使用、8 种语言以及 API / MCP 接口。 | <https://tools.sagasu.art> | 维护中 |
+| [Voice to Instrument](https://voicetoinstrument.com?utm_source=github&utm_medium=directory&utm_campaign=backlink) | 免费 AI 音乐工具，可将人声录音转换为钢琴、吉他、鼓等器乐伴奏，适合内容创作与音乐制作。 | <https://voicetoinstrument.com?utm_source=github&utm_medium=directory&utm_campaign=backlink> | 维护中 |
+| [TrySchedule](https://www.tryschedule.com/?utm_source=github&utm_medium=directory&utm_campaign=backlink) | 免费在线排班与日程构建工具，无需登录即可快速创建和调整时间表。 | <https://www.tryschedule.com/?utm_source=github&utm_medium=directory&utm_campaign=backlink> | 维护中 |
+| [Period Calculator](https://www.aiperiodcalculator.com/) | AI 驱动的经期周期计算工具，用于周期跟踪、日期预测与相关信息查询。 | <https://www.aiperiodcalculator.com/> | 维护中 |
+| [Nano Banana 2](https://nanobananas2.org) | 使用 Cloudflare R2 与 Turnstile 的 AI 图像工作室，支持文生图、图像编辑、广告海报和电商视觉生成。 | <https://nanobananas2.org> | 维护中 |
+| [D2Down](https://d2down.com?utm_source=github&utm_medium=directory&utm_campaign=backlink) | 免费高速在线视频下载与转换工具，支持 YouTube、TikTok 等平台。 | <https://d2down.com?utm_source=github&utm_medium=directory&utm_campaign=backlink> | 维护中 |
+| [TOPUPlive](https://www.topuplive.com/?utm_source=github&utm_medium=directory&utm_campaign=backlink) | 在线充值平台，支持手机充值、直播、游戏、礼品卡等 3000+ 商品类别。 | <https://www.topuplive.com/?utm_source=github&utm_medium=directory&utm_campaign=backlink> | 维护中 |
+| [Slitherlinks](https://slitherlinks.com) | 免费在线 Slitherlink 数字回路谜题平台，提供 1900+ 谜题、每日挑战、全球排行榜，技术栈包含 Cloudflare Workers + D1。 | <https://slitherlinks.com> | 维护中 |
+| [Flashify](https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1) | AI 驱动的学习工具，可将 PDF 学习资料转换为高质量 Anki 闪卡并导出卡组。 | <https://flashify.app?utm_source=github&utm_medium=directory&utm_campaign=backlink-2026q1> | 维护中 |
 
 ## 教程
 
